@@ -46,4 +46,6 @@ A modern web application built with Vite, React, and TypeScript, featuring immer
 
 1. Clone the repository:
    ```sh
-   git clone <https://github.com/Harshu2201/Orbital-Simulation.git>
+   git clone <https://github.com/Harshu2201/Harshu2201.git>
+   video link < https://drive.google.com/file/d/1xJfOhQSOHw-dYjc3GisylxoGMF1ypu55/view?usp=sharing>
+   deployed link < https://orbitalsimulation.netlify.app/ >
